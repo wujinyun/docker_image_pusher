@@ -1,6 +1,2 @@
 nextcloud/aio-domaincheck
-nextcloud/univention-app-image:13.0.2-90
-nextcloud/aio-borgbackup
-nextcloud/aio-watchtower
-nextcloud/aio-talk-recording
-nextcloud/aio-docker-socket-proxy
+nextcloud/all-in-one
