@@ -1,8 +1,16 @@
-alpine
-python:alpine3.19
-kasmweb/nginx:1.25.3
---platform=linux/amd64 redis:7.0.15-alpine3.20
---platform=linux/arm/v7 redis:7.0.15-alpine3.20
-collabora/code
-portainer/portainer
-frost1123/office:7.3.3.40
+nextcloud/all-in-one
+nextcloud/aio-redis
+nextcloud/aio-postgresql
+nextcloud/aio-apache
+nextcloud/aio-nextcloud
+nextcloud/aio-fulltextsearch
+nextcloud/aio-talk
+nextcloud/aio-imaginary
+nextcloud/aio-notify-push
+nextcloud/aio-clamav
+nextcloud/aio-domaincheck
+nextcloud/univention-app-image
+nextcloud/aio-borgbackup
+nextcloud/aio-watchtower
+nextcloud/aio-talk-recording
+nextcloud/aio-docker-socket-proxy
