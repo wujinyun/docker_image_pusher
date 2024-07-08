@@ -1,13 +1,3 @@
-nextcloud/all-in-one
-nextcloud/aio-redis
-nextcloud/aio-postgresql
-nextcloud/aio-apache
-nextcloud/aio-nextcloud
-nextcloud/aio-fulltextsearch
-nextcloud/aio-talk
-nextcloud/aio-imaginary
-nextcloud/aio-notify-push
-nextcloud/aio-clamav
 nextcloud/aio-domaincheck
 nextcloud/univention-app-image
 nextcloud/aio-borgbackup
