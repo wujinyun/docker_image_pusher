@@ -1,5 +1,5 @@
 nextcloud/aio-domaincheck
-nextcloud/univention-app-image
+nextcloud/univention-app-image:13.0.2-90
 nextcloud/aio-borgbackup
 nextcloud/aio-watchtower
 nextcloud/aio-talk-recording
