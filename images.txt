@@ -1,2 +1,1 @@
-pihole/pihole
-caddy
+pi-hole/docker-pi-hole
