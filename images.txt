@@ -1,1 +1,1 @@
-docker-pi-hole
+pihole/ftl-build
