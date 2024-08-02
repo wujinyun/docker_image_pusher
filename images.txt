@@ -1,1 +1,15 @@
 nextcloud/all-in-one
+nextcloud/aio-nextcloud
+nextcloud/aio-redis
+nextcloud/aio-postgresql
+nextcloud/aio-apache
+nextcloud/aio-fulltextsearch
+nextcloud/aio-talk
+nextcloud/aio-imaginary
+nextcloud/aio-notify-push
+nextcloud/aio-clamav
+nextcloud/aio-domaincheck
+nextcloud/aio-borgbackup
+nextcloud/aio-talk-recording
+nextcloud/aio-watchtower
+nextcloud/aio-docker-socket-proxy
