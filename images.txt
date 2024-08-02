@@ -13,3 +13,4 @@ nextcloud/aio-borgbackup
 nextcloud/aio-talk-recording
 nextcloud/aio-watchtower
 nextcloud/aio-docker-socket-proxy
+frost1123/office7.3.3.40
