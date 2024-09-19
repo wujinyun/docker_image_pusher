@@ -6,7 +6,6 @@ nextcloud/aio-apache
 nextcloud/aio-fulltextsearch
 nextcloud/aio-talk
 nextcloud/aio-imaginary
-nextcloud/aio-notify-push
 nextcloud/aio-clamav
 nextcloud/aio-domaincheck
 nextcloud/aio-borgbackup
